@@ -1,4 +1,4 @@
-# webhook-to-bash
+# webhook2bash
 
 A simple API server that triggers a batch file when asked, based on environment variables
 

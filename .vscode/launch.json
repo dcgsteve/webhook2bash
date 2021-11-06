@@ -12,7 +12,8 @@
             "program": "${fileDirname}",
             "env": {
                 "WTB_TOKEN": "123456789",
-                "WTB_BASHFILE": "/opt/wtb/scripts/test.sh"
+                "WTB_BASHFILE": "/opt/wtb/scripts/test.sh",
+                "WTB_PORT": "8123"
               }
         }
     ]

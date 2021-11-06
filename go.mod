@@ -1,4 +1,4 @@
-module gitlab.com/uk02919/webhook-to-bash
+module gitlab.com/uk02919/webhook2bash
 
 go 1.17
 
